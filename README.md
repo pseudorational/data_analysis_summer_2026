@@ -14,6 +14,7 @@ The workshop is organized into three sessions:
 *   **`Session2_Transform/`**
     *   Focuses on data cleaning, filtering, sorting, handling missing values, pivoting, and aggregation.
     *   Key notebook: `data_exploration.ipynb` (contains detailed tutorials on indexing, grouping, and light-weight data visualizations using built-in Pandas `.plot()` methods).
+    *   Exercises using open data
 *   **`Session3_Share/`**
     *   Focuses on formatting, sharing analysis, and generating reports from data insights.
 
