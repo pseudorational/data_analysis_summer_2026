@@ -1,0 +1,504 @@
+symbol,company_name,industry,headquarters_city,headquarters_state,founded_year,revenue,gross_profit,operating_income,net_income,employees,market_cap
+MMM,3M,Industrial Conglomerates,Saint Paul,Minnesota,1902.0,24948000000.0,,4629000000.0,3250000000.0,,80196182016.0
+AOS,A. O. Smith,Building Products,Milwaukee,Wisconsin,1916.0,3830200000.0,1487400000.0,728600000.0,546200000.0,,7883797504.0
+ABT,Abbott Laboratories,Health Care Equipment,North Chicago,Illinois,1888.0,44328000000.0,4397000000.0,8053000000.0,6524000000.0,,158626922496.0
+ABBV,AbbVie,Biotechnology,North Chicago,Illinois,,61160000000.0,12066000000.0,15075000000.0,1816000000.0,,401468325888.0
+ACN,Accenture,IT Consulting & Other Services,Dublin,Ireland,1989.0,17596260000.0,,2049691000.0,1413963000.0,,109701316608.0
+ADBE,Adobe Inc.,Application Software,San Jose,California,1982.0,23769000000.0,21218000000.0,8706000000.0,7130000000.0,,101632049152.0
+AMD,Advanced Micro Devices,Semiconductors,Santa Clara,California,1969.0,34639000000.0,17152000000.0,3694000000.0,4335000000.0,,760479481856.0
+AES,AES Corporation,Independent Power Producers & Energy Traders,Arlington,Virginia,1981.0,12233000000.0,2211000000.0,,910000000.0,,10462023680.0
+AFL,Aflac,Life & Health Insurance,Columbus,Georgia,1955.0,17164000000.0,,4157000000.0,3646000000.0,,60182372352.0
+A,Agilent Technologies,Life Sciences Tools & Services,Santa Clara,California,1999.0,6948000000.0,,1479000000.0,1303000000.0,,38252580864.0
+APD,Air Products,Industrial Gases,Upper Macungie Township,Pennsylvania,1940.0,12037300000.0,753600000.0,-877000000.0,-394500000.0,,62873894912.0
+ABNB,Airbnb,"Hotels, Resorts & Cruise Lines",San Francisco,California,2008.0,12241000000.0,,2544000000.0,2511000000.0,,79256641536.0
+AKAM,Akamai Technologies,Internet Services & Infrastructure,Cambridge,Massachusetts,1998.0,663452000.0,,566944000.0,452031000.0,,21708957696.0
+ALB,Albemarle Corporation,Specialty Chemicals,Charlotte,North Carolina,1994.0,5142733000.0,668719000.0,-367084000.0,-510628000.0,,18331762688.0
+ARE,Alexandria Real Estate Equities,Office REITs,Pasadena,California,1994.0,,,,-1429570000.0,,8936538112.0
+ALGN,Align Technology,Health Care Supplies,Tempe,Arizona,1997.0,4034964000.0,2711013000.0,545755000.0,410351000.0,,12013224960.0
+ALLE,Allegion,Building Products,Dublin,Ireland,1908.0,4067300000.0,,859500000.0,643800000.0,,11185412096.0
+LNT,Alliant Energy,Electric Utilities,Madison,Wisconsin,1917.0,4362000000.0,,1025000000.0,810000000.0,,18820648960.0
+ALL,Allstate,Property & Casualty Insurance,Northbrook,Illinois,1931.0,17345000000.0,,,10282000000.0,,56892596224.0
+GOOGL,Alphabet Inc. (Class A),Interactive Media & Services,Mountain View,California,1998.0,350018000000.0,,129039000000.0,132170000000.0,,4494199357440.0
+GOOG,Alphabet Inc. (Class C),Interactive Media & Services,Mountain View,California,1998.0,350018000000.0,,129039000000.0,132170000000.0,,4460419481600.0
+MO,Altria,Tobacco,Richmond,Virginia,1985.0,23279000000.0,14542000000.0,9899000000.0,6947000000.0,,120549449728.0
+AMZN,Amazon,Broadline Retail,Seattle,Washington,1994.0,716924000000.0,5531000000.0,79975000000.0,77670000000.0,,2646571745280.0
+AMCR,Amcor,Paper & Plastic Packaging Products & Materials,"Warmley, Bristol",United Kingdom,,15009000000.0,895000000.0,1009000000.0,-39000000.0,50000.0,17629241344.0
+AEE,Ameren,Multi-Utilities,St. Louis,Missouri,1902.0,8799000000.0,,2026000000.0,-60000000.0,,30240647168.0
+AEP,American Electric Power,Electric Utilities,Columbus,Ohio,1906.0,21702000000.0,,5319000000.0,1480000000.0,,70265724928.0
+AXP,American Express,Consumer Finance,New York City,New York,1850.0,41304000000.0,,2841000000.0,10833000000.0,,211971538944.0
+AIG,American International Group,Multi-line Insurance,New York City,New York,1919.0,26775000000.0,,,3096000000.0,,40025264128.0
+AMT,American Tower,Telecom Tower REITs,Boston,Massachusetts,1995.0,935900000.0,,4845800000.0,1690600000.0,,90439155712.0
+AWK,American Water Works,Water Utilities,Camden,New Jersey,1886.0,5121000000.0,,1879000000.0,1111000000.0,,24306567168.0
+AMP,Ameriprise Financial,Asset Management & Custody Banks,Minneapolis,Minnesota,1894.0,18911000000.0,,,3563000000.0,,40872611840.0
+AME,Ametek,Electrical Components & Equipment,Berwyn,Pennsylvania,1930.0,7401116000.0,,1910317000.0,1480142000.0,,51925942272.0
+AMGN,Amgen,Biotechnology,Thousand Oaks,California,1980.0,36751000000.0,4737000000.0,9080000000.0,7711000000.0,,188671213568.0
+APH,Amphenol,Electronic Components,Wallingford,Connecticut,1932.0,23094700000.0,8517700000.0,5868600000.0,4270300000.0,,170768842752.0
+ADI,Analog Devices,Semiconductors,Wilmington,Massachusetts,1965.0,11019707000.0,6773478000.0,2932496000.0,2267342000.0,,195511877632.0
+AON,Aon plc,Insurance Brokers,London,United Kingdom,,17181000000.0,,4344000000.0,3695000000.0,,70166429696.0
+APA,APA Corporation,Oil & Gas Exploration & Production,Houston,Texas,1954.0,,,3087000000.0,1434000000.0,,12926406656.0
+APO,Apollo Global Management,Asset Management & Custody Banks,New York City,New York,1990.0,32049000000.0,,,3492000000.0,,
+AAPL,Apple Inc.,"Technology Hardware, Storage & Peripherals",Cupertino,California,1977.0,416161000000.0,195201000000.0,133050000000.0,112010000000.0,,4514011676672.0
+AMAT,Applied Materials,Semiconductor Materials & Equipment,Santa Clara,California,1967.0,28368000000.0,13808000000.0,8289000000.0,6998000000.0,,359671562240.0
+APP,AppLovin,Application Software,Palo Alto,California,2012.0,5480717000.0,,4151914000.0,3333751000.0,,
+APTV,Aptiv,Automotive Parts & Equipment,Schaffhausen,Switzerland,1994.0,20398000000.0,963000000.0,425000000.0,138000000.0,,14517168128.0
+ACGL,Arch Capital Group,Property & Casualty Insurance,Hamilton,Bermuda,1995.0,19929000000.0,,,4399000000.0,,31860838400.0
+ADM,Archer Daniels Midland,Agricultural Products & Services,Chicago,Illinois,1902.0,24956000000.0,5033000000.0,,1078000000.0,,38999920640.0
+ARES,Ares Management,Asset Management & Custody Banks,Los Angeles,California,1977.0,5601482000.0,,,527362000.0,,
+ANET,Arista Networks,Communications Equipment,Santa Clara,California,2004.0,9005700000.0,5768700000.0,3856100000.0,3511400000.0,,194252062720.0
+AJG,Arthur J. Gallagher & Co.,Insurance Brokers,Rolling Meadows,Illinois,1927.0,13942000000.0,,,1494000000.0,706000.0,55535443968.0
+AIZ,Assurant,Multi-line Insurance,Atlanta,Georgia,1892.0,12814300000.0,,,872700000.0,,12751084544.0
+T,AT&T,Integrated Telecommunication Services,Dallas,Texas,,125648000000.0,,24162000000.0,21953000000.0,268000.0,158074699776.0
+ATO,Atmos Energy,Gas Utilities,Dallas,Texas,1906.0,4702755000.0,376011000.0,1559971000.0,1198754000.0,,28416432128.0
+ADSK,Autodesk,Application Software,San Francisco,California,1982.0,7206000000.0,6556000000.0,1578000000.0,1124000000.0,,48554962944.0
+ADP,Automatic Data Processing,Human Resource & Employment Services,Roseland,New Jersey,1949.0,20560900000.0,1309600000.0,,4079700000.0,,92718366720.0
+AZO,AutoZone,Automotive Retail,Memphis,Tennessee,1979.0,18938717000.0,9966474000.0,3610156000.0,2498247000.0,,51012841472.0
+AVB,AvalonBay Communities,Multi-Family Residential REITs,Arlington,Virginia,1978.0,7042000.0,,2020949000.0,1081994000.0,,26915969024.0
+AVY,Avery Dennison,Paper & Plastic Packaging Products & Materials,Mentor,Ohio,1935.0,8855500000.0,2546300000.0,,688000000.0,,11869776896.0
+AXON,Axon Enterprise,Aerospace & Defense,Scottsdale,Arizona,1993.0,2779536000.0,1658125000.0,-62076000.0,124656000.0,,39182282752.0
+BKR,Baker Hughes,Oil & Gas Equipment & Services,Houston,Texas,2017.0,27733000000.0,1295000000.0,3081000000.0,2588000000.0,,62093578240.0
+BALL,Ball Corporation,"Metal, Glass & Plastic Containers",Broomfield,Colorado,1880.0,2747000000.0,480000000.0,1273000000.0,444000000.0,,14089764864.0
+BAC,Bank of America,Diversified Banks,Charlotte,North Carolina,,113097000000.0,,,30509000000.0,,382009507840.0
+BAX,Baxter International,Health Care Equipment,Deerfield,Illinois,1931.0,11244000000.0,3379000000.0,-308000000.0,-957000000.0,,10009168896.0
+BDX,Becton Dickinson,Health Care Equipment,Franklin Lakes,New Jersey,1897.0,21840000000.0,2206000000.0,2579000000.0,1678000000.0,,41650692096.0
+BRK.B,Berkshire Hathaway,Multi-Sector Holdings,Omaha,Nebraska,1839.0,247244000000.0,,20079000000.0,66968000000.0,,
+BBY,Best Buy,Computer & Electronics Retail,Richfield,Minnesota,1966.0,41691000000.0,9373000000.0,1389000000.0,1069000000.0,,15073133568.0
+TECH,Bio-Techne,Life Sciences Tools & Services,Minneapolis,Minnesota,1976.0,1219635000.0,790272000.0,102255000.0,73400000.0,,8140009472.0
+BIIB,Biogen,Biotechnology,Cambridge,Massachusetts,1978.0,9890600000.0,2361900000.0,2840700000.0,1292900000.0,,28839434240.0
+BLK,BlackRock,Asset Management & Custody Banks,New York City,New York,1988.0,24216000000.0,,7045000000.0,5553000000.0,,162131968000.0
+BX,Blackstone Inc.,Asset Management & Custody Banks,New York City,New York,1985.0,14450265000.0,,,3019214000.0,,140987924480.0
+XYZ,"Block, Inc.",Transaction & Payment Processing Services,none,,2009.0,3205500000.0,10359929000.0,1708406000.0,1305636000.0,,
+BNY,BNY Mellon,Asset Management & Custody Banks,New York City,New York,1784.0,20080000000.0,,,5549000000.0,,
+BA,Boeing,Aerospace & Defense,Arlington,Virginia,1916.0,76559000000.0,4289000000.0,4281000000.0,2235000000.0,,169839738880.0
+BKNG,Booking Holdings,"Hotels, Resorts & Cruise Lines",Norwalk,Connecticut,1996.0,26917000000.0,12439000000.0,8825000000.0,288663000.0,,128505839616.0
+BSX,Boston Scientific,Health Care Equipment,Marlborough,Massachusetts,1979.0,20074000000.0,13854000000.0,3613000000.0,2892000000.0,,72162541568.0
+BMY,Bristol Myers Squibb,Pharmaceuticals,New York City,New York,,48194000000.0,8158000000.0,,7054000000.0,,116949426176.0
+AVGO,Broadcom,Semiconductors,Palo Alto,California,1961.0,63887000000.0,43294000000.0,25484000000.0,5895000000.0,,1826303639552.0
+BR,Broadridge Financial Solutions,Data Processing & Outsourced Services,Lake Success,New York,1962.0,6889100000.0,514900000.0,1188600000.0,839500000.0,,17503725568.0
+BRO,Brown & Brown,Insurance Brokers,Daytona Beach,Florida,1939.0,5902000000.0,,,1054000000.0,,19950469120.0
+BF.B,Brown–Forman,Distillers & Vintners,Louisville,Kentucky,1870.0,3975000000.0,2343000000.0,1107000000.0,869000000.0,,
+BLDR,Builders FirstSource,Building Products,Irving,Texas,1998.0,15190638000.0,4615777000.0,786276000.0,435199000.0,,7920709120.0
+BG,Bunge Global,Agricultural Products & Services,Chesterfield,Missouri,1818.0,16944000000.0,1011000000.0,,95000000.0,,24535529472.0
+BXP,"BXP, Inc.",Office REITs,Boston,Massachusetts,1970.0,3482279000.0,2058649000.0,908110000.0,276800000.0,,11114150912.0
+CHRW,C.H. Robinson,Air Freight & Logistics,Eden Prairie,Minnesota,1905.0,16232763000.0,,794961000.0,587081000.0,,21699248128.0
+CDNS,Cadence Design Systems,Application Software,San Jose,California,1988.0,5296759000.0,,1492042000.0,1108888000.0,,103759224832.0
+CPT,Camden Property Trust,Multi-Family Residential REITs,Houston,Texas,1981.0,12967000.0,,,384462000.0,,11157600256.0
+CPB,Campbell's Company (The),Packaged Foods & Meats,Camden,New Jersey,1869.0,10253000000.0,747000000.0,1124000000.0,602000000.0,,6463816192.0
+COF,Capital One,Consumer Finance,Tysons Corner,Virginia,1994.0,8062000000.0,,,2453000000.0,,112429637632.0
+CAH,Cardinal Health,Health Care Distributors,Dublin,Ohio,1971.0,222578000000.0,8168000000.0,2275000000.0,1561000000.0,,48178487296.0
+CCL,Carnival Corporation,"Hotels, Resorts & Cruise Lines",Miami,Florida,1972.0,26622000000.0,,4483000000.0,2760000000.0,,37966675968.0
+CARR,Carrier Global,Building Products,Palm Beach Gardens,Florida,,21747000000.0,,2172000000.0,1484000000.0,,55781785600.0
+CVNA,Carvana,Automotive Retail,Tempe,Arizona,2012.0,20322000000.0,4192000000.0,1881000000.0,1407000000.0,,
+CASY,Casey's,Food Retail,Ankeny,Iowa,1967.0,15940899000.0,525070000.0,,546520000.0,,
+CAT,Caterpillar Inc.,Construction Machinery & Heavy Transportation Equipment,Irving,Texas,1925.0,67589000000.0,2786000000.0,11151000000.0,968000000.0,,416504119296.0
+CBOE,Cboe Global Markets,Financial Exchanges & Data,Chicago,Illinois,1973.0,2229100000.0,2429100000.0,1467100000.0,1100000000.0,,29502949376.0
+CBRE,CBRE Group,Real Estate Services,Dallas,Texas,1906.0,39900000000.0,,1753000000.0,1157000000.0,,38338473984.0
+CDW,CDW Corporation,Technology Distributors,Vernon Hills,Illinois,1984.0,22424100000.0,4873400000.0,1655600000.0,1066600000.0,,16996318208.0
+COR,Cencora,Health Care Distributors,Conshohocken,Pennsylvania,1985.0,321332819000.0,11478539000.0,2628601000.0,1554169000.0,,53512073216.0
+CNC,Centene Corporation,Managed Health Care,St. Louis,Missouri,1984.0,174581000000.0,14209000000.0,-7623000000.0,-6674000000.0,,30778368000.0
+CNP,CenterPoint Energy,Multi-Utilities,Houston,Texas,1882.0,9337000000.0,,2110000000.0,1052000000.0,,27926493184.0
+CF,CF Industries,Fertilizers & Agricultural Chemicals,Deerfield,Illinois,1946.0,7084000000.0,2724000000.0,2300000000.0,1539200000.0,,17435385856.0
+CRL,Charles River Laboratories,Life Sciences Tools & Services,Wilmington,Massachusetts,1947.0,4015382000.0,299968000.0,25162000.0,-144338000.0,,8734735360.0
+SCHW,Charles Schwab Corporation,Investment Banking & Brokerage,Westlake,Texas,1971.0,23921000000.0,,,8852000000.0,,154504790016.0
+CHTR,Charter Communications,Cable & Satellite,Stamford,Connecticut,1993.0,54774000000.0,,12908000000.0,4987000000.0,,20700344320.0
+CVX,Chevron Corporation,Integrated Oil & Gas,Houston,Texas,1879.0,184432000000.0,,,12299000000.0,,373046149120.0
+CMG,Chipotle Mexican Grill,Restaurants,Newport Beach,California,1993.0,11925601000.0,,1935798000.0,1535761000.0,,37635416064.0
+CB,Chubb Limited,Property & Casualty Insurance,Zurich,Switzerland,1985.0,59402000000.0,,,10310000000.0,,126547107840.0
+CHD,Church & Dwight,Household Products,Ewing,New Jersey,1847.0,6203200000.0,2774800000.0,1077600000.0,736800000.0,,22921922560.0
+CIEN,Ciena,Communications Equipment,Hanover,Maryland,1992.0,4769507000.0,2004917000.0,197531000.0,123338000.0,,
+CI,Cigna,Health Care Services,Bloomfield,Connecticut,1982.0,274900000000.0,,9200000000.0,5957000000.0,,76576841728.0
+CINF,Cincinnati Financial,Property & Casualty Insurance,Fairfield,Ohio,1950.0,12631000000.0,,,2393000000.0,,25568169984.0
+CTAS,Cintas,Diversified Support Services,Mason,Ohio,1929.0,10340181000.0,5174164000.0,2359726000.0,1812281000.0,,71964622848.0
+CSCO,Cisco,Communications Equipment,San Jose,California,1984.0,56654000000.0,36790000000.0,11760000000.0,10180000000.0,,479436111872.0
+C,Citigroup,Diversified Banks,New York City,New York,1998.0,85225000000.0,,,14306000000.0,,225937784832.0
+CFG,Citizens Financial Group,Regional Banks,Providence,Rhode Island,1828.0,1635000000.0,,,1831000000.0,,27055986688.0
+CLX,Clorox,Household Products,Oakland,California,1913.0,7104000000.0,3213000000.0,,810000000.0,,11383535616.0
+CME,CME Group,Financial Exchanges & Data,Chicago,Illinois,1848.0,6520600000.0,,4229500000.0,4072200000.0,,93004472320.0
+CMS,CMS Energy,Multi-Utilities,Jackson,Michigan,1886.0,8305000000.0,,1727000000.0,1071000000.0,,22254569472.0
+KO,Coca-Cola Company (The),Soft Drinks & Non-alcoholic Beverages,Atlanta,Georgia,1886.0,47941000000.0,29544000000.0,13762000000.0,13107000000.0,,341961310208.0
+CTSH,Cognizant,IT Consulting & Other Services,Teaneck,New Jersey,1994.0,21108000000.0,,3389000000.0,2230000000.0,,25168328704.0
+COHR,Coherent Corp.,Electronic Components,Saxonburg,Pennsylvania,1971.0,5810115000.0,,96121000.0,49364000.0,,
+COIN,Coinbase,Financial Exchanges & Data,New York City,New York,2012.0,7181325000.0,,1435441000.0,1260327000.0,,
+CL,Colgate-Palmolive,Household Products,New York City,New York,1806.0,20382000000.0,12251000000.0,3306000000.0,2132000000.0,,70880772096.0
+CMCSA,Comcast,Cable & Satellite,Philadelphia,Pennsylvania,1963.0,123707000000.0,,20672000000.0,19998000000.0,,85090484224.0
+FIX,Comfort Systems USA,Construction & Engineering,Houston,Texas,1997.0,2856659000.0,2195899000.0,1314589000.0,1022558000.0,,
+CAG,Conagra Brands,Packaged Foods & Meats,Chicago,Illinois,1919.0,11612800000.0,3003500000.0,1364600000.0,1152400000.0,,6224467456.0
+COP,ConocoPhillips,Oil & Gas Exploration & Production,Houston,Texas,2002.0,51824000000.0,,,7988000000.0,,142710964224.0
+ED,Consolidated Edison,Multi-Utilities,New York City,New York,1823.0,17049000000.0,,2935000000.0,2023000000.0,,39159967744.0
+STZ,Constellation Brands,Distillers & Vintners,Rochester,New York,1945.0,1920200000.0,951700000.0,2721400000.0,201800000.0,,24268179456.0
+CEG,Constellation Energy,Electric Utilities,Baltimore,Maryland,1999.0,22663000000.0,,3086000000.0,2319000000.0,,91000307712.0
+COO,Cooper Companies (The),Health Care Supplies,San Ramon,California,1958.0,4092400000.0,2682100000.0,682900000.0,374900000.0,,13139003392.0
+CPRT,Copart,Diversified Support Services,Dallas,Texas,1982.0,525659000.0,250431000.0,1696714000.0,1552449000.0,,28663121920.0
+GLW,Corning Inc.,Electronic Components,Corning,New York,1851.0,15629000000.0,5621000000.0,2279000000.0,1596000000.0,,152832065536.0
+CPAY,Corpay,Transaction & Payment Processing Services,Atlanta,Georgia,2000.0,4528403000.0,,1994108000.0,1069826000.0,,22709999616.0
+CTVA,Corteva,Fertilizers & Agricultural Chemicals,Indianapolis,Indiana,2019.0,17401000000.0,,,1094000000.0,,51519201280.0
+CSGP,CoStar Group,Real Estate Services,Washington,D.C.,1987.0,3247000000.0,2561000000.0,-72000000.0,7000000.0,,13839174656.0
+COST,Costco,Consumer Staples Merchandise Retail,Issaquah,Washington,1976.0,275235000000.0,,10383000000.0,8099000000.0,,431003762688.0
+CRH,CRH plc,Construction Materials,Dublin,Ireland,1970.0,37447000000.0,13528000000.0,5440000000.0,3753000000.0,,
+CRWD,CrowdStrike,Systems Software,Austin,Texas,2011.0,,3593076000.0,-293292000.0,-162502000.0,,170818093056.0
+CCI,Crown Castle,Telecom Tower REITs,Houston,Texas,1994.0,215000000.0,,2075000000.0,444000000.0,,41240346624.0
+CSX,CSX Corporation,Rail Transportation,Jacksonville,Florida,1980.0,14092000000.0,,4521000000.0,2889000000.0,,87313948672.0
+CMI,Cummins,Construction Machinery & Heavy Transportation Equipment,Columbus,Indiana,1919.0,33670000000.0,8516000000.0,4025000000.0,1040000000.0,,89861242880.0
+CVS,CVS Health,Health Care Services,Woonsocket,Rhode Island,1996.0,193919000000.0,7904000000.0,4660000000.0,1768000000.0,,122399703040.0
+DHR,Danaher Corporation,Life Sciences Tools & Services,Washington,D.C.,1969.0,24568000000.0,14523000000.0,4690000000.0,3614000000.0,,130442125312.0
+DRI,Darden Restaurants,Restaurants,Orlando,Florida,1938.0,12076700000.0,2472700000.0,1362300000.0,1049600000.0,,22691674112.0
+DDOG,Datadog,Application Software,New York City,New York,2010.0,3427158000.0,2740201000.0,-44373000.0,107741000.0,,
+DVA,DaVita,Health Care Services,Denver,Colorado,1979.0,13643069000.0,,2043615000.0,746803000.0,,12333790208.0
+DECK,Deckers Brands,Footwear,Goleta,California,1973.0,5472296000.0,3157726000.0,1262903000.0,1024071000.0,,15017197568.0
+DE,Deere & Company,Agricultural & Farm Machinery,Moline,Illinois,1837.0,45684000000.0,2189000000.0,9039000000.0,5027000000.0,,157492297728.0
+DELL,Dell Technologies,"Technology Hardware, Storage & Peripherals",Round Rock,Texas,2016.0,113538000000.0,22707000000.0,8149000000.0,5936000000.0,,256183238656.0
+DAL,Delta Air Lines,Passenger Airlines,Atlanta,Georgia,1929.0,63364000000.0,,5822000000.0,5005000000.0,78400.0,52178493440.0
+DVN,Devon Energy,Oil & Gas Exploration & Production,Oklahoma City,Oklahoma,1971.0,16786000000.0,,-2895000000.0,2893000000.0,,51072688128.0
+DXCM,Dexcom,Health Care Equipment,San Diego,California,1999.0,4662000000.0,2801900000.0,911800000.0,836300000.0,,28114706432.0
+FANG,Diamondback Energy,Oil & Gas Exploration & Production,Midland,Texas,2007.0,9566000000.0,,1266000000.0,1664000000.0,,54186569728.0
+DLR,Digital Realty,Data Center REITs,Austin,Texas,2004.0,6112692000.0,,658492000.0,1308589000.0,,66814607360.0
+DG,Dollar General,Consumer Staples Merchandise Retail,Goodlettsville,Tennessee,1939.0,42724369000.0,13099689000.0,2203668000.0,1512311000.0,,22874832896.0
+DLTR,Dollar Tree,Consumer Staples Merchandise Retail,Chesapeake,Virginia,1986.0,19395700000.0,7050700000.0,1653100000.0,1282500000.0,,20908595200.0
+D,Dominion Energy,Multi-Utilities,Richmond,Virginia,1983.0,16523000000.0,,756000000.0,567000000.0,,58839388160.0
+DPZ,Domino's,Restaurants,Ann Arbor,Michigan,1960.0,4939994000.0,1973560000.0,953974000.0,601704000.0,,10443893760.0
+DASH,DoorDash,Specialized Consumer Services,San Francisco,California,2012.0,13717000000.0,,723000000.0,935000000.0,,
+DOV,Dover Corporation,Industrial Machinery & Supplies & Components,Downers Grove,Illinois,1955.0,8092571000.0,3218169000.0,1373361000.0,1093956000.0,,28919883776.0
+DOW,Dow Inc.,Commodity Chemicals,Midland,Michigan,,39968000000.0,1571000000.0,,-2444000000.0,,24483588096.0
+DHI,D. R. Horton,Homebuilding,Arlington,Texas,1978.0,34250400000.0,160000000.0,,3585200000.0,,41289195520.0
+DTE,DTE Energy,Multi-Utilities,Detroit,Michigan,1995.0,3271000000.0,,2374000000.0,1462000000.0,,30324289536.0
+DUK,Duke Energy,Electric Utilities,Charlotte,North Carolina,1904.0,5695000000.0,,8626000000.0,4968000000.0,,96841441280.0
+DD,DuPont,Specialty Chemicals,Wilmington,Delaware,,1693000000.0,4532000000.0,,-126000000.0,,18976976896.0
+ETN,Eaton Corporation,Electrical Components & Equipment,Dublin,Ireland,1911.0,27448000000.0,,3675000000.0,4087000000.0,101000.0,153743507456.0
+EBAY,eBay Inc.,Broadline Retail,San Jose,California,1995.0,11100000000.0,7931000000.0,2277000000.0,2031000000.0,,48551399424.0
+SATS,EchoStar,Wireless Telecommunication Services,Englewood,Colorado,2008.0,15004989000.0,,-17723146000.0,-14497180000.0,,
+ECL,Ecolab,Specialty Chemicals,Saint Paul,Minnesota,1923.0,16081200000.0,,2737600000.0,2075600000.0,,72602435584.0
+EIX,Edison International,Electric Utilities,Rosemead,California,1886.0,19317000000.0,,7093000000.0,4459000000.0,,28216940544.0
+EW,Edwards Lifesciences,Health Care Equipment,Irvine,California,1958.0,6067600000.0,4733400000.0,1264200000.0,1073500000.0,,49495769088.0
+EA,Electronic Arts,Interactive Home Entertainment,Redwood City,California,1982.0,7531000000.0,5947000000.0,1162000000.0,887000000.0,,50902552576.0
+ELV,Elevance Health,Managed Health Care,Indianapolis,Indiana,,199125000000.0,,7199000000.0,5662000000.0,,90237485056.0
+EME,Emcor,Construction & Engineering,Norwalk,Connecticut,1994.0,16986422000.0,3282988000.0,1713418000.0,1272817000.0,25000.0,
+EMR,Emerson Electric,Electrical Components & Equipment,Ferguson,Missouri,1890.0,4855000000.0,2520000000.0,,637000000.0,,77361004544.0
+ETR,Entergy,Electric Utilities,New Orleans,Louisiana,1913.0,12147412000.0,,3202278000.0,2356536000.0,,50706386944.0
+EOG,EOG Resources,Oil & Gas Exploration & Production,Houston,Texas,1999.0,22632000000.0,,6385000000.0,4980000000.0,,73385558016.0
+EQT,EQT Corporation,Oil & Gas Exploration & Production,Pittsburgh,Pennsylvania,1888.0,5044768000.0,,3249619000.0,2039247000.0,,33619443712.0
+EFX,Equifax,Research & Consulting Services,Atlanta,Georgia,1899.0,6074500000.0,,1095200000.0,660300000.0,,20764833792.0
+EQIX,Equinix,Data Center REITs,Redwood City,California,1998.0,9217000000.0,733380000.0,1848000000.0,1350000000.0,,106607878144.0
+EQR,Equity Residential,Multi-Family Residential REITs,Chicago,Illinois,1969.0,2701075000.0,1179565000.0,1160585000.0,1120089000.0,,26346981376.0
+ERIE,Erie Indemnity,Insurance Brokers,Erie,Pennsylvania,1925.0,4067258000.0,,717184000.0,559335000.0,,11881304064.0
+ESS,Essex Property Trust,Multi-Family Residential REITs,San Mateo,California,1971.0,9381000.0,1318978000.0,899316000.0,390153000.0,,19673602048.0
+EL,Estée Lauder Companies (The),Personal Care Products,New York City,New York,1946.0,14326000000.0,10597000000.0,-785000000.0,-462000000.0,,30206257152.0
+EG,Everest Group,Reinsurance,Hamilton,Bermuda,1973.0,17496000000.0,,,1591000000.0,,13233138688.0
+EVRG,Evergy,Electric Utilities,Kansas City,Missouri,1909.0,5705100000.0,,1532900000.0,855600000.0,,19194818560.0
+ES,Eversource Energy,Electric Utilities,Hartford,Connecticut,1966.0,13547244000.0,,2988589000.0,-434700000.0,,26551248896.0
+EXC,Exelon,Electric Utilities,Chicago,Illinois,2000.0,24258000000.0,,5148000000.0,378000000.0,,46811770880.0
+EXE,Expand Energy,Oil & Gas Exploration & Production,Oklahoma City,Oklahoma,1989.0,12124000000.0,737000000.0,2471000000.0,1819000000.0,,
+EXPE,Expedia Group,"Hotels, Resorts & Cruise Lines",Seattle,Washington,1996.0,14733000000.0,,1871000000.0,1294000000.0,,27470653440.0
+EXPD,Expeditors International,Air Freight & Logistics,Seattle,Washington,1979.0,11069009000.0,458738000.0,1052546000.0,810332000.0,,20984129536.0
+EXR,Extra Space Storage,Self-Storage REITs,Salt Lake City,Utah,1977.0,129476000.0,,1412691000.0,973999000.0,,32069033984.0
+XOM,ExxonMobil,Integrated Oil & Gas,Irving,Texas,1999.0,276692000000.0,,,28844000000.0,,621410451456.0
+FFIV,"F5, Inc.",Communications Equipment,Seattle,Washington,1996.0,3088072000.0,2514094000.0,765949000.0,692380000.0,,22192510976.0
+FDS,FactSet,Financial Exchanges & Data,Norwalk,Connecticut,1978.0,2321748000.0,,748303000.0,597040000.0,6258.0,9312524288.0
+FICO,Fair Isaac,Application Software,Bozeman,Montana,1956.0,1990869000.0,280680000.0,924850000.0,651946000.0,,26375712768.0
+FAST,Fastenal,Trading Companies & Distributors,Winona,Minnesota,1967.0,8200500000.0,3691200000.0,1655700000.0,1258400000.0,,53716561920.0
+FRT,Federal Realty Investment Trust,Retail REITs,Rockville,Maryland,1962.0,1278975000.0,,602199000.0,411077000.0,,10652719104.0
+FDX,FedEx,Air Freight & Logistics,Memphis,Tennessee,1971.0,87926000000.0,,5217000000.0,4092000000.0,,78978834432.0
+FDXF,FedEx Freight,Cargo Ground Transportation,Memphis,Tennessee,1982.0,,,,,,
+FIS,Fidelity National Information Services,Transaction & Payment Processing Services,Jacksonville,Florida,1968.0,2812000000.0,1076000000.0,529000000.0,511000000.0,,21166200832.0
+FITB,Fifth Third Bancorp,Regional Banks,Cincinnati,Ohio,1858.0,,,,2522000000.0,,47137263616.0
+FSLR,First Solar,Semiconductors,Tempe,Arizona,1999.0,5219376000.0,2120339000.0,1596864000.0,1528229000.0,,29980563456.0
+FE,FirstEnergy,Electric Utilities,Akron,Ohio,1997.0,11112000000.0,,2206000000.0,1020000000.0,,26850772992.0
+FISV,Fiserv,Transaction & Payment Processing Services,Brookfield,Wisconsin,1984.0,16226000000.0,,5818000000.0,3480000000.0,,
+F,Ford Motor Company,Automobile Manufacturers,Dearborn,Michigan,1903.0,187267000000.0,,-9169000000.0,5879000000.0,,59371921408.0
+FTNT,Fortinet,Systems Software,Sunnyvale,California,2000.0,6799600000.0,5470700000.0,2084700000.0,1853400000.0,,105999564800.0
+FTV,Fortive,Industrial Machinery & Supplies & Components,Everett,Washington,2016.0,1122500000.0,708900000.0,225500000.0,579200000.0,,18681882624.0
+FOXA,Fox Corporation (Class A),Broadcasting,New York City,New York,2019.0,16300000000.0,,,2293000000.0,,28106262528.0
+FOX,Fox Corporation (Class B),Broadcasting,New York City,New York,2019.0,16300000000.0,,,2293000000.0,,25160757248.0
+BEN,Franklin Resources,Asset Management & Custody Banks,San Mateo,California,1947.0,8770700000.0,,604100000.0,524900000.0,,16280231936.0
+FCX,Freeport-McMoRan,Copper,Phoenix,Arizona,1912.0,25186000000.0,,6518000000.0,4152000000.0,,91098161152.0
+GRMN,Garmin,Consumer Electronics,Schaffhausen,Switzerland,1989.0,7245519000.0,4256303000.0,1876076000.0,1663887000.0,,45623996416.0
+IT,Gartner,IT Consulting & Other Services,Stamford,Connecticut,1979.0,6497226000.0,4468216000.0,1025711000.0,729231000.0,40.0,10981448704.0
+GE,GE Aerospace,Aerospace & Defense,Evendale,Ohio,1892.0,9879000000.0,7027000000.0,22887000000.0,8704000000.0,,342704128000.0
+GEHC,GE HealthCare,Health Care Equipment,Chicago,Illinois,1994.0,20625000000.0,8248000000.0,2763000000.0,2084000000.0,,29417850880.0
+GEV,GE Vernova,Heavy Electrical Equipment,Cambridge,Massachusetts,2024.0,38068000000.0,7535000000.0,1388000000.0,4884000000.0,,250879672320.0
+GEN,Gen Digital,Systems Software,Tempe,Arizona,1982.0,5000000000.0,3923000000.0,2120000000.0,973000000.0,,15831962624.0
+GNRC,Generac,Electrical Components & Equipment,Waukesha,Wisconsin,1959.0,4209147000.0,1611737000.0,289191000.0,159554000.0,,15396514816.0
+GD,General Dynamics,Aerospace & Defense,Reston,Virginia,1899.0,52550000000.0,,5356000000.0,4210000000.0,,93687832576.0
+GIS,General Mills,Packaged Foods & Meats,Golden Valley,Minnesota,1856.0,4556200000.0,1474000000.0,3304800000.0,294000000.0,,17691533312.0
+GM,General Motors,Automobile Manufacturers,Detroit,Michigan,1908.0,167971000000.0,-3135000000.0,2909000000.0,2697000000.0,,74035732480.0
+GPC,Genuine Parts Company,Distributors,Atlanta,Georgia,1925.0,24300141000.0,8940698000.0,1430505000.0,65945000.0,,13654835200.0
+GILD,Gilead Sciences,Biotechnology,Foster City,California,1987.0,29443000000.0,5930000000.0,10022000000.0,8510000000.0,,160361168896.0
+GPN,Global Payments,Transaction & Payment Processing Services,Atlanta,Georgia,2000.0,7705878000.0,,1754624000.0,1400107000.0,,18141405184.0
+GL,Globe Life,Life & Health Insurance,McKinney,Texas,1900.0,5994318000.0,1259942000.0,1265012000.0,1161238000.0,,12359492608.0
+GDDY,GoDaddy,Internet Services & Infrastructure,Tempe,Arizona,1997.0,4951100000.0,,1127300000.0,875000000.0,,11172742144.0
+GS,Goldman Sachs,Investment Banking & Brokerage,New York City,New York,1869.0,,,,17176000000.0,,306418319360.0
+HAL,Halliburton,Oil & Gas Equipment & Services,Houston,Texas,1919.0,17973000000.0,,2260000000.0,1283000000.0,,32730884096.0
+HIG,Hartford (The),Property & Casualty Insurance,Hartford,Connecticut,1810.0,1506000000.0,,2264000000.0,3836000000.0,,36223647744.0
+HAS,Hasbro,Leisure Products,Pawtucket,Rhode Island,1923.0,4701300000.0,,11100000.0,-322400000.0,,11910685696.0
+HCA,HCA Healthcare,Health Care Facilities,Nashville,Tennessee,1968.0,75600000000.0,,,6784000000.0,,82553249792.0
+DOC,Healthpeak Properties,Health Care REITs,Denver,Colorado,1985.0,603989000.0,,,71347000.0,,13643616256.0
+HSIC,Henry Schein,Health Care Distributors,Melville,New York,1932.0,13184000000.0,4105000000.0,653000000.0,398000000.0,,8822852608.0
+HSY,Hershey Company (The),Packaged Foods & Meats,Hershey,Pennsylvania,1894.0,11692576000.0,3922691000.0,1441528000.0,883259000.0,,37440831488.0
+HPE,Hewlett Packard Enterprise,"Technology Hardware, Storage & Peripherals",Houston,Texas,2015.0,34296000000.0,,-437000000.0,57000000.0,,65150812160.0
+HLT,Hilton Worldwide,"Hotels, Resorts & Cruise Lines",Tysons Corner,Virginia,1919.0,12039000000.0,,2693000000.0,1457000000.0,,78106157056.0
+HD,Home Depot (The),Home Improvement Retail,Atlanta,Georgia,1978.0,164683000000.0,54865000000.0,20890000000.0,14156000000.0,,309883928576.0
+HON,Honeywell,Industrial Conglomerates,Charlotte,North Carolina,1906.0,9758000000.0,3470000000.0,8127000000.0,-115000000.0,,135582760960.0
+HRL,Hormel Foods,Packaged Foods & Meats,Austin,Minnesota,1891.0,2492608000.0,1891816000.0,718603000.0,478197000.0,,12998439936.0
+HST,Host Hotels & Resorts,Hotel & Resort REITs,Bethesda,Maryland,1993.0,6114000000.0,,855000000.0,765000000.0,,17080525824.0
+HWM,Howmet Aerospace,Aerospace & Defense,Pittsburgh,Pennsylvania,1888.0,8252000000.0,,2046000000.0,1508000000.0,,100787077120.0
+HPQ,HP Inc.,"Technology Hardware, Storage & Peripherals",Palo Alto,California,,55295000000.0,11392000000.0,3174000000.0,2529000000.0,,23393490944.0
+HUBB,Hubbell Incorporated,Industrial Machinery & Supplies & Components,Shelton,Connecticut,1888.0,1492700000.0,525100000.0,1208800000.0,224200000.0,,25196015616.0
+HUM,Humana,Managed Health Care,Louisville,Kentucky,1961.0,129664000000.0,,2704000000.0,1188000000.0,,42031128576.0
+HBAN,Huntington Bancshares,Regional Banks,"Columbus, Ohio; Detroit",Michigan,1866.0,1562000000.0,,,2211000000.0,,33488199680.0
+HII,Huntington Ingalls Industries,Aerospace & Defense,Newport News,Virginia,2011.0,12484000000.0,,657000000.0,605000000.0,44000.0,11546956800.0
+IBM,IBM,IT Consulting & Other Services,Armonk,New York,1911.0,67535000000.0,39297000000.0,,10593000000.0,,267716935680.0
+IEX,IDEX Corporation,Industrial Machinery & Supplies & Components,Northbrook,Illinois,1988.0,3457500000.0,1538800000.0,699300000.0,483200000.0,,15939142656.0
+IDXX,Idexx Laboratories,Health Care Equipment,Westbrook,Maine,1983.0,4303702000.0,2659579000.0,1360031000.0,1059464000.0,,44344864768.0
+ITW,Illinois Tool Works,Industrial Machinery & Supplies & Components,Glenview,Illinois,1912.0,16044000000.0,,4216000000.0,3066000000.0,,72707547136.0
+INCY,Incyte,Biotechnology,Wilmington,Delaware,1991.0,5141242000.0,,1514859000.0,1286650000.0,,20453697536.0
+IR,Ingersoll Rand,Industrial Machinery & Supplies & Components,Davidson,North Carolina,1859.0,7650900000.0,3336300000.0,1144600000.0,581400000.0,,28274085888.0
+PODD,Insulet Corporation,Health Care Equipment,Acton,Massachusetts,2000.0,1055400000.0,1939900000.0,473800000.0,247100000.0,,10612732928.0
+INTC,Intel,Semiconductors,Santa Clara,California,1968.0,52853000000.0,18375000000.0,-2214000000.0,-267000000.0,,498428411904.0
+IBKR,Interactive Brokers,Investment Banking & Brokerage,Greenwich,Connecticut,1977.0,2440000000.0,,,44533000.0,,
+ICE,Intercontinental Exchange,Financial Exchanges & Data,Atlanta,Georgia,2000.0,12640000000.0,,4929000000.0,3315000000.0,,80020021248.0
+IFF,International Flavors & Fragrances,Specialty Chemicals,New York City,New York,,10890000000.0,3938000000.0,-382000000.0,339781000.0,,18639706112.0
+IP,International Paper,Paper & Plastic Packaging Products & Materials,Memphis,Tennessee,1898.0,6006000000.0,1678000000.0,2361000000.0,-2384000000.0,,17797064704.0
+INTU,Intuit,Application Software,Mountain View,California,1983.0,18831000000.0,,4923000000.0,3869000000.0,,81174839296.0
+ISRG,Intuitive Surgical,Health Care Equipment,Sunnyvale,California,1995.0,10064700000.0,6642300000.0,2945500000.0,2856000000.0,,149477965824.0
+IVZ,Invesco,Asset Management & Custody Banks,Atlanta,Georgia,1935.0,6377100000.0,,-695700000.0,538000000.0,,12124163072.0
+INVH,Invitation Homes,Single-Family Residential REITs,Dallas,Texas,2012.0,2729296000.0,,118207000.0,587924000.0,,17845022720.0
+IQV,IQVIA,Life Sciences Tools & Services,Durham,North Carolina,1982.0,16310000000.0,,2182000000.0,1360000000.0,,30617804800.0
+IRM,Iron Mountain,Other Specialized REITs,Portsmouth,New Hampshire,1951.0,6901737000.0,,1163822000.0,-53900000.0,,37089427456.0
+JBHT,J.B. Hunt,Cargo Ground Transportation,Lowell,Arkansas,1961.0,1990160000.0,,865069000.0,598282000.0,,26870558720.0
+JBL,Jabil,Electronic Manufacturing Services,St. Petersburg,Florida,1966.0,29802000000.0,2646000000.0,1182000000.0,657000000.0,,37267746816.0
+JKHY,Jack Henry & Associates,Transaction & Payment Processing Services,Monett,Missouri,1976.0,2375288000.0,164371000.0,568715000.0,455748000.0,,9244418048.0
+J,Jacobs Solutions,Construction & Engineering,Dallas,Texas,1947.0,4142644000.0,2984934000.0,863634000.0,289336000.0,,14470812672.0
+JNJ,Johnson & Johnson,Pharmaceuticals,New Brunswick,New Jersey,1886.0,94193000000.0,63937000000.0,21590000000.0,26804000000.0,,560327884800.0
+JCI,Johnson Controls,Building Products,Cork,Ireland,1885.0,23596000000.0,8592000000.0,884000000.0,3291000000.0,,87643103232.0
+JPM,JPMorgan Chase,Diversified Banks,New York City,New York,,182447000000.0,,,57048000000.0,,836998922240.0
+KVUE,Kenvue,Personal Care Products,Skillman,New Jersey,,15124000000.0,8792000000.0,2414000000.0,1470000000.0,,34003351552.0
+KDP,Keurig Dr Pepper,Soft Drinks & Non-alcoholic Beverages,Burlington,Massachusetts,1981.0,16603000000.0,8999000000.0,3575000000.0,2079000000.0,,41537880064.0
+KEY,KeyCorp,Regional Banks,Cleveland,Ohio,1825.0,1749000000.0,,,1829000000.0,,23592751104.0
+KEYS,Keysight Technologies,Electronic Equipment & Instruments,Santa Rosa,California,,5375000000.0,,876000000.0,850000000.0,,56366415872.0
+KMB,Kimberly-Clark,Household Products,Irving,Texas,1872.0,4080000000.0,1465000000.0,2351000000.0,499000000.0,,32875372544.0
+KIM,Kimco Realty,Retail REITs,Jericho,New York,1958.0,2140116000.0,,770823000.0,584741000.0,,16340463616.0
+KMI,Kinder Morgan,Oil & Gas Storage & Transportation,Houston,Texas,1997.0,15202000000.0,,4724000000.0,3056000000.0,,70482485248.0
+KKR,KKR & Co.,Asset Management & Custody Banks,New York City,New York,1976.0,2006791000.0,,,2370463000.0,,87090044928.0
+KLAC,KLA Corporation,Semiconductor Materials & Equipment,Milpitas,California,,12156162000.0,1153230000.0,173014000.0,4061643000.0,,252006612992.0
+KHC,Kraft Heinz,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh",Pennsylvania,,,8309000000.0,-4669000000.0,-5846000000.0,,26774859776.0
+KR,Kroger,Food Retail,Cincinnati,Ohio,1883.0,147642000000.0,,1890000000.0,1016000000.0,,39194763264.0
+LHX,L3Harris,Aerospace & Defense,Melbourne,Florida,,21865000000.0,532200000.0,2110000000.0,1606000000.0,,57347170304.0
+LH,Labcorp,Health Care Services,Burlington,North Carolina,1978.0,13951700000.0,4012500000.0,1384700000.0,876500000.0,,21742299136.0
+LRCX,Lam Research,Semiconductor Materials & Equipment,Fremont,California,1980.0,18435591000.0,8979059000.0,5900968000.0,5358217000.0,,379273183232.0
+LVS,Las Vegas Sands,Casinos & Gaming,Las Vegas,Nevada,1988.0,3649000000.0,,707000000.0,395000000.0,,33297524736.0
+LDOS,Leidos,Diversified Support Services,Reston,Virginia,1969.0,17107000000.0,,2109000000.0,1448000000.0,,15651485696.0
+LEN,Lennar,Homebuilding,Miami,Florida,1954.0,34186934000.0,1574242000.0,3482206000.0,2078179000.0,,22287532032.0
+LII,Lennox International,Building Products,Richardson,Texas,1895.0,1195000000.0,389300000.0,195800000.0,142500000.0,,
+LLY,Lilly (Eli),Pharmaceuticals,Indianapolis,Indiana,1876.0,65179000000.0,,,20640000000.0,,1008934060032.0
+LIN,Linde plc,Industrial Gases,Guildford,United Kingdom,1879.0,33986000000.0,,8923000000.0,6898000000.0,,234826186752.0
+LYV,Live Nation Entertainment,Movies & Entertainment,Beverly Hills,California,2010.0,25201406000.0,,1251217000.0,495972000.0,,37250338816.0
+LMT,Lockheed Martin,Aerospace & Defense,Bethesda,Maryland,1995.0,59812000000.0,7619000000.0,7731000000.0,5017000000.0,,120760000512.0
+L,Loews Corporation,Multi-line Insurance,New York City,New York,1959.0,3174000000.0,,,1667000000.0,,22134558720.0
+LOW,Lowe's,Home Improvement Retail,Mooresville,North Carolina,,86286000000.0,28885000000.0,10153000000.0,6654000000.0,,118163415040.0
+LULU,Lululemon Athletica,"Apparel, Accessories & Luxury Goods",Vancouver,Canada,1998.0,11102600000.0,6284132000.0,2210615000.0,1579183000.0,,12971265024.0
+LITE,Lumentum,Communications Equipment,San Jose,California,2015.0,1645000000.0,459900000.0,-180100000.0,25900000.0,,
+LYB,LyondellBasell,Specialty Chemicals,Rotterdam,Netherlands,2007.0,30153000000.0,1225000000.0,-420000000.0,3397000000.0,,20819617792.0
+MTB,M&T Bank,Regional Banks,Buffalo,New York,1856.0,1657000000.0,,,2851000000.0,,32575238144.0
+MPC,Marathon Petroleum,Oil & Gas Refining & Marketing,Findlay,Ohio,,132699000000.0,,8291000000.0,4047000000.0,,76490317824.0
+MAR,Marriott International,"Hotels, Resorts & Cruise Lines",Bethesda,Maryland,1927.0,26186000000.0,,4141000000.0,2601000000.0,,103500423168.0
+MRSH,Marsh McLennan,Insurance Brokers,New York City,New York,1905.0,26981000000.0,,6223000000.0,4160000000.0,,
+MLM,Martin Marietta Materials,Construction Materials,Raleigh,North Carolina,1993.0,1534000000.0,468000000.0,1437000000.0,279000000.0,,34576232448.0
+MAS,Masco,Building Products,Livonia,Michigan,1929.0,7562000000.0,2679000000.0,1248000000.0,810000000.0,,14002387968.0
+MA,Mastercard,Transaction & Payment Processing Services,Harrison,New York,1966.0,29845000000.0,,18897000000.0,623000000.0,,433910349824.0
+MKC,McCormick & Company,Packaged Foods & Meats,Hunt Valley,Maryland,1889.0,6840300000.0,2592200000.0,1070800000.0,789400000.0,,12700152832.0
+MCD,McDonald's,Restaurants,Chicago,Illinois,1940.0,26885000000.0,,12393000000.0,8563000000.0,,198827950080.0
+MCK,McKesson Corporation,Health Care Distributors,Irving,Texas,1833.0,403430000000.0,14550000000.0,6212000000.0,4762000000.0,,93237469184.0
+MDT,Medtronic,Health Care Equipment,Galway,Ireland,1949.0,33537000000.0,3734000000.0,5955000000.0,4662000000.0,,104854880256.0
+MRK,Merck & Co.,Pharmaceuticals,Kenilworth,New Jersey,1891.0,65011000000.0,,,18254000000.0,,298330095616.0
+META,Meta Platforms,Interactive Media & Services,Menlo Park,California,2004.0,200966000000.0,,83276000000.0,60458000000.0,,1505284980736.0
+MET,MetLife,Life & Health Insurance,New York City,New York,1868.0,2436000000.0,,6137000000.0,3379000000.0,,54363975680.0
+MTD,Mettler Toledo,Life Sciences Tools & Services,Columbus,Ohio,1945.0,4026399000.0,2390646000.0,,869193000.0,,23326238720.0
+MGM,MGM Resorts,Casinos & Gaming,Paradise,Nevada,1986.0,17537683000.0,,1001780000.0,205862000.0,,12155491328.0
+MCHP,Microchip Technology,Semiconductors,Chandler,Arizona,1989.0,4713100000.0,2721100000.0,490100000.0,230000000.0,,47887282176.0
+MU,Micron Technology,Semiconductors,Boise,Idaho,1978.0,37378000000.0,14873000000.0,9770000000.0,8539000000.0,,974373453824.0
+MSFT,Microsoft,Systems Software,Redmond,Washington,1975.0,281724000000.0,193893000000.0,128528000000.0,101832000000.0,,3095206035456.0
+MAA,Mid-America Apartment Communities,Multi-Family Residential REITs,Memphis,Tennessee,1977.0,2209126000.0,,37285000.0,446909000.0,,16412185600.0
+MRNA,Moderna,Biotechnology,Cambridge,Massachusetts,2010.0,1944000000.0,,-3074000000.0,-2822000000.0,,18823540736.0
+TAP,Molson Coors Beverage Company,Brewers,Chicago,Illinois,,13040300000.0,4274600000.0,-2336900000.0,-2139600000.0,,7325756416.0
+MDLZ,Mondelez International,Packaged Foods & Meats,Chicago,Illinois,2012.0,38537000000.0,10935000000.0,3548000000.0,2451000000.0,,79637635072.0
+MPWR,Monolithic Power Systems,Semiconductors,Kirkland,Washington,1997.0,2790459000.0,1539741000.0,728636000.0,621483000.0,,72763990016.0
+MNST,Monster Beverage,Soft Drinks & Non-alcoholic Beverages,Corona,California,,8294343000.0,4632195000.0,2419354000.0,1905432000.0,,87580631040.0
+MCO,Moody's Corporation,Financial Exchanges & Data,New York City,New York,1909.0,7718000000.0,,3351000000.0,2459000000.0,,78840209408.0
+MS,Morgan Stanley,Investment Banking & Brokerage,New York City,New York,1935.0,7764000000.0,,,16861000000.0,,334273970176.0
+MOS,Mosaic Company (The),Fertilizers & Agricultural Chemicals,Tampa,Florida,,12052400000.0,1901900000.0,821500000.0,540700000.0,,7068909568.0
+MSI,Motorola Solutions,Communications Equipment,Chicago,Illinois,,11682000000.0,6035000000.0,2988000000.0,2154000000.0,,68114628608.0
+MSCI,MSCI Inc.,Financial Exchanges & Data,New York City,New York,1969.0,3134459000.0,,1713567000.0,1202305000.0,,44760924160.0
+NDAQ,"Nasdaq, Inc.",Financial Exchanges & Data,New York City,New York,1971.0,8262000000.0,5249000000.0,2331000000.0,1788000000.0,,49360400384.0
+NTAP,NetApp,"Technology Hardware, Storage & Peripherals",San Jose,California,1992.0,6925000000.0,4899000000.0,1674000000.0,1276000000.0,,33084000256.0
+NFLX,Netflix,Movies & Entertainment,Los Gatos,California,1997.0,45183036000.0,2479282000.0,13326603000.0,10981201000.0,,346043416576.0
+NEM,Newmont,Gold,Denver,Colorado,1921.0,22669000000.0,780000000.0,,7085000000.0,,106445684736.0
+NWSA,News Corp (Class A),Publishing,New York City,New York,,8452000000.0,,,743000000.0,,14858425344.0
+NWS,News Corp (Class B),Publishing,New York City,New York,,8452000000.0,,,743000000.0,,17000524800.0
+NEE,NextEra Energy,Multi-Utilities,Juno Beach,Florida,,3375000000.0,,8280000000.0,6835000000.0,,179028361216.0
+NKE,"Nike, Inc.","Apparel, Accessories & Luxury Goods",Washington County,Oregon,1964.0,46309000000.0,19790000000.0,,3219000000.0,,63648526336.0
+NI,NiSource,Multi-Utilities,Merrillville,Indiana,1912.0,6522800000.0,1211000000.0,1835300000.0,929500000.0,,22346661888.0
+NDSN,Nordson Corporation,Industrial Machinery & Supplies & Components,Westlake,Ohio,1935.0,2791687000.0,296868000.0,711725000.0,484474000.0,,15753136128.0
+NSC,Norfolk Southern,Rail Transportation,Atlanta,Georgia,,12180000000.0,,4356000000.0,2873000000.0,,70398992384.0
+NTRS,Northern Trust,Asset Management & Custody Banks,Chicago,Illinois,1889.0,5017800000.0,,,1736900000.0,,31545008128.0
+NOC,Northrop Grumman,Aerospace & Defense,West Falls Church,Virginia[3],,41954000000.0,,4511000000.0,4182000000.0,,77323026432.0
+NCLH,Norwegian Cruise Line Holdings,"Hotels, Resorts & Cruise Lines",Miami-Dade County,Florida[4],,1249553000.0,,1560868000.0,423246000.0,,8608315392.0
+NRG,NRG Energy,Independent Power Producers & Energy Traders,Houston,Texas,1992.0,30347000000.0,,1845000000.0,864000000.0,,27259451392.0
+NUE,Nucor,Steel,Charlotte,North Carolina,1940.0,32494000000.0,627000000.0,,1744000000.0,,57935020032.0
+NVDA,Nvidia,Semiconductors,Santa Clara,California,1993.0,26914000000.0,153463000000.0,130387000000.0,120067000000.0,,4967727366144.0
+NVR,"NVR, Inc.",Homebuilding,Reston,Virginia,1980.0,10323959000.0,,,1339816000.0,,16688506880.0
+NXPI,NXP Semiconductors,Semiconductors,Eindhoven,Netherlands,1953.0,12269000000.0,6716000000.0,3047000000.0,2021000000.0,,74721337344.0
+ORLY,O’Reilly Automotive,Automotive Retail,Springfield,Missouri,1957.0,17781992000.0,9174141000.0,3460612000.0,2538209000.0,,74857832448.0
+OXY,Occidental Petroleum,Oil & Gas Exploration & Production,Houston,Texas,1920.0,21569000000.0,,,4696000000.0,,56624553984.0
+ODFL,Old Dominion,Cargo Ground Transportation,Thomasville,North Carolina,1934.0,,,1361045000.0,1023703000.0,,50446868480.0
+OMC,Omnicom Group,Advertising,New York City,New York,1986.0,17271900000.0,,444700000.0,-54500000.0,,21463816192.0
+ON,ON Semiconductor,Semiconductors,Phoenix,Arizona,1999.0,5995400000.0,1983900000.0,84200000.0,121000000.0,,45591064576.0
+OKE,Oneok,Oil & Gas Storage & Transportation,Tulsa,Oklahoma,1906.0,33629000000.0,563495000.0,5741000000.0,3393000000.0,,55600398336.0
+ORCL,Oracle Corporation,Application Software,Austin,Texas,1977.0,57399000000.0,24287000000.0,17678000000.0,12443000000.0,,614553485312.0
+OTIS,Otis Worldwide,Industrial Machinery & Supplies & Components,Farmington,Connecticut,,14431000000.0,1012000000.0,2133000000.0,1384000000.0,,26990585856.0
+PCAR,Paccar,Construction Machinery & Heavy Transportation Equipment,Bellevue,Washington,1905.0,28444800000.0,,,2375800000.0,,61407080448.0
+PKG,Packaging Corporation of America,Paper & Plastic Packaging Products & Materials,Lake Forest,Illinois,1959.0,8989300000.0,1889600000.0,1107000000.0,774100000.0,13600.0,19852961792.0
+PLTR,Palantir Technologies,Application Software,Aventura,Florida,2003.0,4475446000.0,3686269000.0,1414015000.0,1625033000.0,,324907696128.0
+PANW,Palo Alto Networks,Systems Software,Santa Clara,California,2005.0,9221500000.0,6769900000.0,1242900000.0,1133900000.0,,221720739840.0
+PSKY,Paramount Skydance Corporation,Movies & Entertainment,Los Angeles,California,,12269000000.0,,-95000000.0,-586000000.0,,
+PH,Parker Hannifin,Industrial Machinery & Supplies & Components,Cleveland,Ohio,1917.0,19850000000.0,841556000.0,4347000000.0,2844215000.0,,111251070976.0
+PAYX,Paychex,Human Resource & Employment Services,Penfield,New York,1971.0,5410000000.0,,2207700000.0,161200000.0,,36018982912.0
+PYPL,PayPal,Transaction & Payment Processing Services,San Jose,California,1998.0,4961000000.0,,6065000000.0,5233000000.0,,36422135808.0
+PNR,Pentair,Industrial Machinery & Supplies & Components,Worsley,United Kingdom,1966.0,4176000000.0,1690300000.0,857500000.0,653800000.0,,11821445120.0
+PEP,PepsiCo,Soft Drinks & Non-alcoholic Beverages,Purchase,New York,1898.0,93925000000.0,50859000000.0,11498000000.0,8240000000.0,,193996259328.0
+PFE,Pfizer,Pharmaceuticals,New York City,New York,1849.0,50914000000.0,,,7771000000.0,,148413530112.0
+PCG,PG&E Corporation,Multi-Utilities,Oakland,California,1905.0,16759000000.0,,4749000000.0,1220000000.0,,37680066560.0
+PM,Philip Morris International,Tobacco,New York City,New York,,40648000000.0,27282000000.0,14892000000.0,11348000000.0,,277875458048.0
+PSX,Phillips 66,Oil & Gas Refining & Marketing,Houston,Texas,,132376000000.0,,,4403000000.0,,73403179008.0
+PNW,Pinnacle West Capital,Multi-Utilities,Phoenix,Arizona,1985.0,5339939000.0,,1067630000.0,350053000.0,,12489548800.0
+PNC,PNC Financial Services,Diversified Banks,Pittsburgh,Pennsylvania,1845.0,19211000000.0,,,6997000000.0,,91705311232.0
+POOL,Pool Corporation,Distributors,Covington,Louisiana,1993.0,5289396000.0,1572458000.0,580204000.0,406404000.0,,6760906240.0
+PPG,PPG Industries,Specialty Chemicals,Pittsburgh,Pennsylvania,1883.0,15875000000.0,,2675000000.0,1576000000.0,,25366020096.0
+PPL,PPL Corporation,Electric Utilities,Allentown,Pennsylvania,1920.0,9170000000.0,,2129000000.0,1181000000.0,,26889003008.0
+PFG,Principal Financial Group,Life & Health Insurance,Des Moines,Iowa,1879.0,15625500000.0,,,1185100000.0,,22728822784.0
+PG,Procter & Gamble,Personal Care Products,Cincinnati,Ohio,1837.0,84284000000.0,,20451000000.0,15974000000.0,,341232877568.0
+PGR,Progressive Corporation,Property & Casualty Insurance,Mayfield Village,Ohio,1937.0,87671000000.0,,,11308000000.0,,119045677056.0
+PLD,Prologis,Industrial REITs,San Francisco,California,1983.0,2252712000.0,,1626478000.0,3328231000.0,,135440326656.0
+PRU,Prudential Financial,Life & Health Insurance,Newark,New Jersey,1875.0,60774000000.0,,,3576000000.0,,36337156096.0
+PEG,Public Service Enterprise Group,Electric Utilities,Newark,New Jersey,1903.0,12168000000.0,,2980000000.0,2111000000.0,,39606587392.0
+PTC,PTC Inc.,Application Software,Boston,Massachusetts,1985.0,2739226000.0,2294243000.0,982385000.0,733997000.0,,15824293888.0
+PSA,Public Storage,Self-Storage REITs,Glendale,California,1972.0,4824113000.0,2014558000.0,1423142000.0,1784348000.0,,54363004928.0
+PHM,PulteGroup,Homebuilding,Atlanta,Georgia,1956.0,17311953000.0,,,2218730000.0,,22553583616.0
+PWR,Quanta Services,Construction & Engineering,Houston,Texas,1997.0,28479697000.0,4275081000.0,1611509000.0,1028378000.0,,104308301824.0
+QCOM,Qualcomm,Semiconductors,San Diego,California,1985.0,44284000000.0,,12355000000.0,5541000000.0,,227600760832.0
+DGX,Quest Diagnostics,Health Care Services,Secaucus,New Jersey,1967.0,11035000000.0,1269000000.0,1556000000.0,992000000.0,,22171387904.0
+Q,Qnity Electronics,Semiconductor Materials & Equipment,Wilmington,Delaware,2025.0,4754000000.0,,,729000000.0,,
+RL,Ralph Lauren Corporation,"Apparel, Accessories & Luxury Goods",New York City,New York,1967.0,8114500000.0,5669200000.0,1179200000.0,941100000.0,,21815715840.0
+RJF,Raymond James Financial,Investment Banking & Brokerage,St. Petersburg,Florida,1962.0,15912000000.0,,,2135000000.0,,29515036672.0
+RTX,RTX Corporation,Aerospace & Defense,Waltham,Massachusetts,1922.0,88603000000.0,2153000000.0,9300000000.0,6732000000.0,,243736231936.0
+O,Realty Income,Retail REITs,San Diego,California,1969.0,1327838000.0,,,1058590000.0,,56732848128.0
+REG,Regency Centers,Retail REITs,Jacksonville,Florida,1963.0,1553524000.0,,1123441000.0,527460000.0,,14528586752.0
+REGN,Regeneron Pharmaceuticals,Biotechnology,Tarrytown,New York,1988.0,14342900000.0,,3577900000.0,4504900000.0,,66619965440.0
+RF,Regions Financial Corporation,Regional Banks,Birmingham,Alabama,1971.0,,,53000000.0,2156000000.0,,24355452928.0
+RSG,Republic Services,Environmental & Facilities Services,Phoenix,Arizona,,16591000000.0,,3302000000.0,2139249000.0,,64621764608.0
+RMD,ResMed,Health Care Equipment,San Diego,California,1989.0,5146327000.0,3054970000.0,1685363000.0,1400723000.0,,28436852736.0
+RVTY,Revvity,Health Care Equipment,Waltham,Massachusetts,1937.0,2856051000.0,436329000.0,356635000.0,241201000.0,,10974135296.0
+HOOD,Robinhood Markets,Investment Banking & Brokerage,Menlo Park,California,2013.0,4473000000.0,,,1883000000.0,,
+ROK,Rockwell Automation,Electrical Components & Equipment,Milwaukee,Wisconsin,1903.0,8342000000.0,4016000000.0,1703000000.0,869000000.0,,49707184128.0
+ROL,"Rollins, Inc.",Environmental & Facilities Services,Atlanta,Georgia,1948.0,3761050000.0,251701000.0,726068000.0,526705000.0,,22676936704.0
+ROP,Roper Technologies,Electronic Equipment & Instruments,Sarasota,Florida,1981.0,7902500000.0,5472000000.0,2235400000.0,1536300000.0,,33522726912.0
+ROST,Ross Stores,Apparel Retail,Dublin,California,1982.0,22750559000.0,,2707357000.0,2145044000.0,,73898336256.0
+RCL,Royal Caribbean Group,"Hotels, Resorts & Cruise Lines",Miami,Florida,1997.0,17935000000.0,,4910000000.0,4268000000.0,,75094589440.0
+SPGI,S&P Global,Financial Exchanges & Data,New York City,New York,1917.0,15336000000.0,,6478000000.0,4471000000.0,,125634240512.0
+CRM,Salesforce,Application Software,San Francisco,California,1999.0,41525000000.0,32255000000.0,8331000000.0,7457000000.0,,152055545856.0
+SNDK,Sandisk,"Technology Hardware, Storage & Peripherals",Milpitas,California,1988.0,7355000000.0,2212000000.0,-1377000000.0,-1641000000.0,,
+SBAC,SBA Communications,Telecom Tower REITs,Boca Raton,Florida,1989.0,244498000.0,2124167000.0,298926000.0,370290000.0,,22063228928.0
+SLB,Schlumberger,Oil & Gas Equipment & Services,Houston,Texas,1926.0,35708000000.0,,6523000000.0,3374000000.0,,82033811456.0
+STX,Seagate Technology,"Technology Hardware, Storage & Peripherals",Dublin,Ireland,1979.0,9097000000.0,,1890000000.0,1469000000.0,,191741870080.0
+SRE,Sempra,Multi-Utilities,San Diego,California,1998.0,12418000000.0,,,1837000000.0,,59761930240.0
+NOW,ServiceNow,Systems Software,Santa Clara,California,2003.0,13278000000.0,10295000000.0,1824000000.0,1748000000.0,,115970588672.0
+SHW,Sherwin-Williams,Specialty Chemicals,Cleveland,Ohio,1866.0,23574300000.0,11515500000.0,4161700000.0,2568500000.0,,75297849344.0
+SPG,Simon Property Group,Retail REITs,Indianapolis,Indiana,2003.0,1791462000.0,,890669000.0,3539882000.0,,79913508864.0
+SWKS,Skyworks Solutions,Semiconductors,Irvine,California,2002.0,4086900000.0,1682100000.0,500000000.0,477100000.0,,11065366528.0
+SJM,J.M. Smucker Company (The),Packaged Foods & Meats,Orrville,Ohio,1897.0,,3384700000.0,-673900000.0,-1230800000.0,,11042367488.0
+SW,Smurfit Westrock,Paper & Plastic Packaging Products & Materials,Dublin,Ireland,1934.0,31179000000.0,6043000000.0,1719000000.0,699000000.0,,21649874944.0
+SNA,Snap-on,Industrial Machinery & Supplies & Components,Kenosha,Wisconsin,1920.0,4709300000.0,465300000.0,1327700000.0,1016900000.0,,19672813568.0
+SOLV,Solventum,Health Care Technology,Saint Paul,Minnesota,2023.0,8325000000.0,4451000000.0,2181000000.0,1556000000.0,,14028883968.0
+SO,Southern Company,Electric Utilities,Atlanta,Georgia,1945.0,29553000000.0,,7285000000.0,4341000000.0,,104388083712.0
+LUV,Southwest Airlines,Passenger Airlines,Dallas,Texas,1967.0,28063000000.0,,428000000.0,441000000.0,,20303661056.0
+SWK,Stanley Black & Decker,Industrial Machinery & Supplies & Components,New Britain,Connecticut,1843.0,15130400000.0,753500000.0,2176000000.0,401900000.0,,12200153088.0
+SBUX,Starbucks,Restaurants,Seattle,Washington,1971.0,37184400000.0,,2936600000.0,1856400000.0,,108602007552.0
+STT,State Street Corporation,Asset Management & Custody Banks,Boston,Massachusetts,1792.0,13944000000.0,,,2945000000.0,,44767068160.0
+STLD,Steel Dynamics,Steel,Fort Wayne,Indiana,1993.0,18176581000.0,2392183000.0,1475986000.0,1185595000.0,,38721130496.0
+STE,Steris,Health Care Equipment,Dublin,Ireland,1985.0,5935900000.0,2626500000.0,1101800000.0,782300000.0,3700.0,20725889024.0
+SYK,Stryker Corporation,Health Care Equipment,Kalamazoo,Michigan,1941.0,7171000000.0,4628000000.0,4889000000.0,849000000.0,,117178056704.0
+SMCI,Supermicro,"Technology Hardware, Storage & Peripherals",San Jose,California,1993.0,21972042000.0,2429922000.0,1252994000.0,1048854000.0,,25043064832.0
+SYF,Synchrony Financial,Consumer Finance,Stamford,Connecticut,2003.0,,,,3552000000.0,,23828465664.0
+SNPS,Synopsys,Application Software,Sunnyvale,California,1986.0,7054178000.0,5430629000.0,914927000.0,1332220000.0,,89009168384.0
+SYY,Sysco,Food Distributors,Houston,Texas,1969.0,81370000000.0,14969000000.0,3088000000.0,1828000000.0,,36480548864.0
+TMUS,T-Mobile US,Wireless Telecommunication Services,Bellevue,Washington,1994.0,88309000000.0,,18279000000.0,10992000000.0,,192740655104.0
+TROW,T. Rowe Price,Asset Management & Custody Banks,Baltimore,Maryland,1937.0,7314800000.0,671600000.0,2188800000.0,2087100000.0,4802.0,22710116352.0
+TTWO,Take-Two Interactive,Interactive Home Entertainment,New York City,New York,1993.0,6656400000.0,3809700000.0,-104200000.0,-298200000.0,,39805075456.0
+TPR,"Tapestry, Inc.","Apparel, Accessories & Luxury Goods",New York City,New York,2017.0,7010700000.0,5288900000.0,415000000.0,183200000.0,,28306466816.0
+TRGP,Targa Resources,Oil & Gas Storage & Transportation,Houston,Texas,2005.0,14137200000.0,771100000.0,3331200000.0,1923000000.0,,56685305856.0
+TGT,Target Corporation,Consumer Staples Merchandise Retail,Minneapolis,Minnesota,1902.0,104780000000.0,5971000000.0,5117000000.0,3705000000.0,,55670202368.0
+TEL,TE Connectivity,Electronic Manufacturing Services,Galway,Ireland,2007.0,17262000000.0,6079000000.0,3211000000.0,1842000000.0,,62071640064.0
+TDY,Teledyne Technologies,Electronic Equipment & Instruments,Thousand Oaks,California,1960.0,6115400000.0,221600000.0,1149800000.0,894800000.0,,27902650368.0
+TER,Teradyne,Semiconductor Materials & Equipment,North Reading,Massachusetts,1960.0,758968000.0,1857345000.0,650051000.0,554047000.0,,56031133696.0
+TSLA,"Tesla, Inc.",Automobile Manufacturers,Austin,Texas,2003.0,94827000000.0,17094000000.0,4355000000.0,3794000000.0,,1468487958528.0
+TXN,Texas Instruments,Semiconductors,Dallas,Texas,1930.0,17682000000.0,10083000000.0,6023000000.0,5001000000.0,,259431055360.0
+TPL,Texas Pacific Land Corporation,Oil & Gas Exploration & Production,Dallas,Texas,1888.0,798190000.0,,592161000.0,481376000.0,,
+TXT,Textron,Aerospace & Defense,Providence,Rhode Island,1923.0,13630000000.0,,,921000000.0,,15837808640.0
+TMO,Thermo Fisher Scientific,Life Sciences Tools & Services,Waltham,Massachusetts,,44556000000.0,3035000000.0,7746000000.0,6704000000.0,,175702622208.0
+TJX,TJX Companies,Apparel Retail,Framingham,Massachusetts,1987.0,8303953000.0,3060635000.0,4763227000.0,5494000000.0,,177537056768.0
+TKO,TKO Group Holdings,Movies & Entertainment,New York City,New York,2023.0,1037995000.0,,57383000.0,-2375000.0,,
+TTD,Trade Desk (The),Advertising,Ventura,California,2009.0,2896284000.0,,589321000.0,443304000.0,,
+TSCO,Tractor Supply,Other Specialty Retail,Brentwood,Tennessee,1938.0,15524046000.0,5654508000.0,1467389000.0,1096087000.0,,15618109440.0
+TT,Trane Technologies,Building Products,Dublin,Ireland,1871.0,21321900000.0,,3967400000.0,2918600000.0,,100986978304.0
+TDG,TransDigm Group,Aerospace & Defense,Cleveland,Ohio,1993.0,7940000000.0,5311000000.0,4165000000.0,2074000000.0,,69287165952.0
+TRV,Travelers Companies (The),Property & Casualty Insurance,New York City,New York,1853.0,48828000000.0,,3641000000.0,6288000000.0,,64484503552.0
+TRMB,Trimble Inc.,Application Software,Westminster,Colorado,1978.0,3587300000.0,2477900000.0,592000000.0,424000000.0,,12632312832.0
+TFC,Truist Financial,Diversified Banks,Charlotte,North Carolina,1872.0,,,,5307000000.0,,61297262592.0
+TYL,Tyler Technologies,Application Software,Plano,Texas,1966.0,2332340000.0,1083700000.0,357676000.0,315603000.0,,12838733824.0
+TSN,Tyson Foods,Packaged Foods & Meats,Springdale,Arkansas,1935.0,54441000000.0,3562000000.0,1098000000.0,474000000.0,,20680560640.0
+USB,U.S. Bancorp,Diversified Banks,Minneapolis,Minnesota,1968.0,28656000000.0,,,7570000000.0,,86382493696.0
+UBER,Uber,Passenger Ground Transportation,San Francisco,California,2009.0,52017000000.0,,5565000000.0,10053000000.0,,143937208320.0
+UDR,"UDR, Inc.",Multi-Family Residential REITs,Highlands Ranch,Colorado,1972.0,11361000.0,,553606000.0,377704000.0,,14524213248.0
+ULTA,Ulta Beauty,Other Specialty Retail,Bolingbrook,Illinois,1990.0,12392820000.0,4845224000.0,1532992000.0,1153479000.0,,20079017984.0
+UNP,Union Pacific Corporation,Rail Transportation,Omaha,Nebraska,1862.0,24510000000.0,,9846000000.0,7138000000.0,,161679982592.0
+UAL,United Airlines Holdings,Passenger Airlines,Chicago,Illinois,1967.0,59070000000.0,,4713000000.0,3353000000.0,87000.0,34316759040.0
+UPS,United Parcel Service,Air Freight & Logistics,Sandy Springs,Georgia,1907.0,88661000000.0,,7867000000.0,5572000000.0,,92259680256.0
+URI,United Rentals,Trading Companies & Distributors,Stamford,Connecticut,1997.0,3695000000.0,1590000000.0,1052000000.0,653000000.0,,66892115968.0
+UNH,UnitedHealth Group,Managed Health Care,Eden Prairie,Minnesota,1977.0,447567000000.0,,18964000000.0,12056000000.0,,362776428544.0
+UHS,Universal Health Services,Health Care Facilities,King of Prussia,Pennsylvania,1979.0,17364829000.0,,1994015000.0,1488796000.0,,8788062208.0
+VLO,Valero Energy,Oil & Gas Refining & Marketing,San Antonio,Texas,1980.0,,-230000000.0,3181000000.0,2348000000.0,,75961344000.0
+VEEV,Veeva Systems,Health Care Technology,Pleasanton,California,2007.0,3195311000.0,2413292000.0,916369000.0,908906000.0,,
+VTR,Ventas,Health Care REITs,Chicago,Illinois,1998.0,5833980000.0,,,77583000.0,,39875641344.0
+VLTO,Veralto,Environmental & Facilities Services,Waltham,Massachusetts,2023.0,5503000000.0,3299000000.0,1277000000.0,940000000.0,,21133817856.0
+VRSN,Verisign,Internet Services & Infrastructure,Reston,Virginia,1995.0,1656600000.0,,1121000000.0,320032000.0,,26837721088.0
+VRSK,Verisk Analytics,Research & Consulting Services,Jersey City,New Jersey,1971.0,3072700000.0,,1343900000.0,908300000.0,,23810598912.0
+VZ,Verizon,Integrated Telecommunication Services,New York City,New York,,138191000000.0,,29259000000.0,17174000000.0,,189445095424.0
+VRTX,Vertex Pharmaceuticals,Biotechnology,Boston,Massachusetts,1989.0,12001300000.0,,4173300000.0,3953200000.0,,113407877120.0
+VRT,Vertiv,Electrical Components & Equipment,Westerville,Ohio,2016.0,10229900000.0,,1829700000.0,1332800000.0,,
+VTRS,Viatris,Pharmaceuticals,Pittsburgh,Pennsylvania,1961.0,14250400000.0,5013500000.0,-2663100000.0,0.0,,18493097984.0
+VICI,Vici Properties,Hotel & Resort REITs,New York City,New York,2017.0,4006116000.0,,321018000.0,2775493000.0,,29999095808.0
+V,Visa Inc.,Transaction & Payment Processing Services,San Francisco,California,1958.0,40000000000.0,,23994000000.0,20058000000.0,,615347257344.0
+VST,Vistra Corp.,Electric Utilities,Irving,Texas,2016.0,17586000000.0,,1906000000.0,944000000.0,,50159259648.0
+VMC,Vulcan Materials Company,Construction Materials,Birmingham,Alabama,1909.0,7941100000.0,2174600000.0,1619600000.0,1076700000.0,,36510429184.0
+WRB,W. R. Berkley Corporation,Property & Casualty Insurance,Greenwich,Connecticut,1967.0,14707856000.0,,,1779403000.0,,25527015424.0
+GWW,W. W. Grainger,Industrial Machinery & Supplies & Components,Lake Forest,Illinois,1927.0,17942000000.0,7009000000.0,2495000000.0,1706000000.0,,61377527808.0
+WAB,Wabtec,Construction Machinery & Heavy Transportation Equipment,Pittsburgh,Pennsylvania,,11167000000.0,3806000000.0,1793000000.0,1170000000.0,,44183977984.0
+WMT,Walmart,Consumer Staples Merchandise Retail,Bentonville,Arkansas,1962.0,706413000000.0,,29825000000.0,21893000000.0,,946056396800.0
+DIS,Walt Disney Company (The),Movies & Entertainment,Burbank,California,1923.0,94425000000.0,,17551000000.0,12404000000.0,,173147553792.0
+WBD,Warner Bros. Discovery,Broadcasting,New York City,New York,,37296000000.0,,738000000.0,727000000.0,,65787269120.0
+WM,Waste Management,Environmental & Facilities Services,Houston,Texas,1968.0,25204000000.0,,4308000000.0,2708000000.0,,88507293696.0
+WAT,Waters Corporation,Life Sciences Tools & Services,Milford,Massachusetts,1958.0,932362000.0,348695000.0,270516000.0,642629000.0,,35873181696.0
+WEC,WEC Energy Group,Electric Utilities,Milwaukee,Wisconsin,1896.0,9800100000.0,,2244900000.0,640300000.0,,36790714368.0
+WFC,Wells Fargo,Diversified Banks,San Francisco,California,1852.0,85063000000.0,,,21338000000.0,,250751926272.0
+WELL,Welltower,Health Care REITs,Toledo,Ohio,1970.0,8452996000.0,,,217610000.0,,146074861568.0
+WST,West Pharmaceutical Services,Health Care Supplies,Exton,Pennsylvania,1923.0,3074100000.0,1104000000.0,584900000.0,493700000.0,,22218668032.0
+WDC,Western Digital,"Technology Hardware, Storage & Peripherals",San Jose,California,1970.0,2605000000.0,1067000000.0,2334000000.0,282000000.0,,176380739584.0
+WY,Weyerhaeuser,Timber REITs,Seattle,Washington,1900.0,6905000000.0,1025000000.0,731000000.0,324000000.0,,17651122176.0
+WSM,"Williams-Sonoma, Inc.",Homefurnishing Retail,San Francisco,California,1956.0,7806816000.0,3603051000.0,1415722000.0,1088437000.0,,
+WMB,Williams Companies,Oil & Gas Storage & Transportation,Tulsa,Oklahoma,1908.0,14899000000.0,,4196000000.0,2618000000.0,,88006950912.0
+WTW,Willis Towers Watson,Insurance Brokers,London,United Kingdom,2016.0,9516000000.0,,2234000000.0,1605000000.0,,24890820608.0
+WDAY,"Workday, Inc.",Application Software,Pleasanton,California,2005.0,9552000000.0,,721000000.0,693000000.0,,
+WYNN,Wynn Resorts,Casinos & Gaming,Paradise,Nevada,2002.0,6717660000.0,,1118384000.0,327334000.0,,10843637760.0
+XEL,Xcel Energy,Multi-Utilities,Minneapolis,Minnesota,1909.0,11537000000.0,,2583000000.0,2018000000.0,,49342267392.0
+XYL,Xylem Inc.,Industrial Machinery & Supplies & Components,White Plains,New York,2011.0,9035000000.0,3475000000.0,1223000000.0,957000000.0,,26132023296.0
+YUM,Yum! Brands,Restaurants,Louisville,Kentucky,1997.0,8214000000.0,,2574000000.0,1559000000.0,,41582972928.0
+ZBRA,Zebra Technologies,Electronic Equipment & Instruments,Lincolnshire,Illinois,1969.0,5396000000.0,2593000000.0,700000000.0,419000000.0,,11056186368.0
+ZBH,Zimmer Biomet,Health Care Equipment,Warsaw,Indiana,1927.0,8231500000.0,1285400000.0,1098100000.0,705100000.0,,16895078400.0
+ZTS,Zoetis,Pharmaceuticals,Parsippany,New Jersey,1952.0,9467000000.0,,,2673000000.0,,33303484416.0
